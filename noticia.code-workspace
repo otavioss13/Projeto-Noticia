@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": ".git",
+			"path": "../../../../../Downloads/noticias/noticias/.git"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "noticias hoje"
+	}
+}
